@@ -1,0 +1,14 @@
+*{box-sizing: border-box;}
+body {
+	font-family: 'Nunito', sans-serif;
+	color: #384047;
+}
+
+form{
+	max-width: 250px;
+	max-height: 900px;
+	margin: 10px auto;
+	padding: 5px 5px;
+	background: #f4f7f8;
+	border-radius: 8px;	
+}
