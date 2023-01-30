@@ -11,8 +11,10 @@
 </style>
 <link href="css/Scroltxt.css" type="text/css"
   rel="stylesheet" />
-<script language='JavaScript' type='text/JavaScript'> 
-  localStorage.setItem("visitedHome", "true");
+<script>
+// On the home page, generate a random code and store it in session storage:
+var randomCode = Math.random().toString(36).substring(7);
+sessionStorage.setItem("entryCode", randomCode);
 </script>
 </head>
 <body background="Limitless_sky2.gif">
