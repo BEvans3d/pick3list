@@ -51,7 +51,7 @@
 		
 		<a style="font-size:large"href="../main/index.html">Back to homepage</a><br />
 		
-		<button type="submit" style="width:200px;height:50px;font-size:x-large;font-weight:bold">Sign Up</button>
+		<!--<button type="submit" style="width:200px;height:50px;font-size:x-large;font-weight:bold">Sign Up</button>-->
 		<button type="reset" style="width:200px;height:50px;font-size:x-large;font-weight:bold">Clear</button>
 							
 		</form>
