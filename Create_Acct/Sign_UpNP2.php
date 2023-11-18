@@ -55,6 +55,6 @@
 		<button type="reset" style="width:200px;height:50px;font-size:x-large;font-weight:bold">Clear</button>
 							
 		</form>
-		<pre><?php var_dump($_POST); ?></pre>
+		<!--<pre><?php var_dump($_POST); ?></pre>-->
 	</body>
 </html>
